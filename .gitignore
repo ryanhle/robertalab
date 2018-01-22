@@ -9,6 +9,7 @@ DockerInstallation
 OpenRobertaParent/RobotEV3/**/*.jar
 OpenRobertaParent/OpenRobertaServer/userProjects/*
 OpenRobertaParent/OpenRobertaServer/db-*
+**/node_modules/
 .settings/
 .DS_Store
 .*
